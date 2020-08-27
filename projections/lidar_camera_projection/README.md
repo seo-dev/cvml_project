@@ -20,3 +20,9 @@ python lidar_camera_project.py
 
 #### Lidar 3D boxes
 ![diagram](./assets/3.png)
+
+## error 
+qt.qpa.screen: QXcbConnection: Could not connect to display 
+Could not connect to any X display.
+
+export DISPLAY=:0 
